@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.codegame.codewizards2016.devkit</groupId>
+  <artifactId>java-cgdk</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20161111105100</lastUpdated>
+  </versioning>
+</metadata>
