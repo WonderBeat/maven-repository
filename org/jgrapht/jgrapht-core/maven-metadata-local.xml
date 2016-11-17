@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.jgrapht</groupId>
+  <artifactId>jgrapht-core</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0.1-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20161111191632</lastUpdated>
+  </versioning>
+</metadata>
